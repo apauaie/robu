@@ -1,0 +1,8 @@
+{
+  "name": "robu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "d154e163"
+}
